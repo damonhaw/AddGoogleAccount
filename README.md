@@ -60,10 +60,3 @@ app/src/main/
 - Failures from `addAccount` are swallowed and the app simply closes. The username is intentionally not logged.
 - The receiver is registered as exported so restriction-change broadcasts are delivered on Android 13+.
 
-## Repo hygiene (suggested)
-
-`local.properties` and `.idea/` are committed. Consider adding them to `.gitignore` and removing them from tracking, since `local.properties` holds machine-specific paths.
-
-## License
-
-Data unavailable — no license file in the repository. Add one before distributing.
