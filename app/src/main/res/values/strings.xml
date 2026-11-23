@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Add Google Account</string>
+    <string name="restriction_username_title">Google username</string>
+    <string name="restriction_username_description">The Google Account email or username to prefill during setup</string>
+    <string name="loading_config">Loading configuration from server…</string>
+</resources>
